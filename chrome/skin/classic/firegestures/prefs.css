@@ -1,0 +1,57 @@
+prefwindow {
+	min-width: 40em;
+}
+
+radio[pane="mainPane"] {
+	list-style-image: url("chrome://firegestures/skin/prefs.png");
+	-moz-image-region: rect(0px, 32px, 32px, 0px);
+}
+
+radio[pane="mappingPane"] {
+	list-style-image: url("chrome://firegestures/skin/icon.png");
+}
+
+radio[pane="advancedPane"] {
+	list-style-image: url("chrome://firegestures/skin/prefs.png");
+	-moz-image-region: rect(0px, 64px, 32px, 32px);
+}
+
+radio[pane="swipePane"] {
+	/* [ToDo] */
+	list-style-image: url("chrome://firegestures/skin/prefs.png");
+	-moz-image-region: rect(0px, 64px, 32px, 32px);
+}
+
+#trailSampleOuter {
+	background-color: white;
+	min-height: 1.5em;
+	padding: 4px;
+	-moz-box-align: center;
+}
+
+#trailSample {
+	border-top: 1px solid transparent;
+	width: 32px;
+}
+
+treechildren::-moz-tree-drop-feedback {
+	width: 1000px;
+	margin-left: -100px;
+}
+
+#mappingButtons {
+	padding: 8px 0px 10px 0px;
+}
+
+menulist {
+	width: 18em;
+}
+
+menuseparator {
+	border-top: 1px solid GrayText;
+}
+
+hbox.prefWindow-dlgbuttons {
+	-moz-box-align: center;
+}
+

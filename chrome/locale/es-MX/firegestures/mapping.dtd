@@ -1,0 +1,50 @@
+<!ENTITY gestureCategory.navigation "Navegación">
+<!ENTITY gestureCategory.window "Ventana">
+<!ENTITY gestureCategory.tab "Pestaña">
+<!ENTITY gestureCategory.page "Página">
+<!ENTITY gestureCategory.frame "Marco">
+<!ENTITY gestureCategory.link "Enlace">
+<!ENTITY gestureCategory.image "Imagen">
+<!ENTITY gestureCategory.selection "Selección">
+<!ENTITY gestureCategory.tools "Herramientas">
+<!ENTITY gestureCategory.popup "Tipo emergente">
+<!ENTITY gestureCategory.hybrid "Tipo híbrido">
+<!ENTITY gestureCategory.script "Comandos agregados por el usuario">
+<!ENTITY gestureType.popup "Emergente">
+<!ENTITY gestureType.hybrid "Híbrido">
+<!ENTITY gestureCmd.skipCache "Ignorar caché">
+<!ENTITY gestureCmd.goUpperLevel "Subir un nivel">
+<!ENTITY gestureCmd.incrementURL "Incrementar número en la URL">
+<!ENTITY gestureCmd.decrementURL "Disminuir número en la URL">
+<!ENTITY gestureCmd.undoCloseWindow "Re-abrir ventana cerrada">
+<!ENTITY gestureCmd.minimizeWindow "Minimizar ventana">
+<!ENTITY gestureCmd.maximizeWindow "Maximizar/Restaurar tamaño de ventana">
+<!ENTITY gestureCmd.previousTab "Pestaña anterior">
+<!ENTITY gestureCmd.nextTab "Pestaña siguiente">
+<!ENTITY gestureCmd.duplicateTab "Duplicar pestaña">
+<!ENTITY gestureCmd.closeLeftTabs "Cerrar pestañas de la izquierda">
+<!ENTITY gestureCmd.closeRightTabs "Cerrar pestañas de la derecha">
+<!ENTITY gestureCmd.scrollTop "Regresar al inicio de la página">
+<!ENTITY gestureCmd.scrollBottom "Ir al final de la página">
+<!ENTITY gestureCmd.scrollPageUp "Retroceder una página">
+<!ENTITY gestureCmd.scrollPageDown "Avanzar una página">
+<!ENTITY gestureCmd.backgroundTab "en segundo plano">
+<!ENTITY gestureCmd.foregroundTab "en primer plano">
+<!ENTITY gestureCmd.saveImageNow "Guardar imagen ya">
+<!ENTITY gestureCmd.searchForSelection "Buscar selección">
+<!ENTITY gestureCmd.searchForSelectionWith "Buscar selección con…">
+<!ENTITY gestureCmd.allScripts "Comandos del usuario">
+<!ENTITY gestureCmd.openLinksInSelection "Abrir los enlaces contenidos en la selección">
+<!ENTITY gestureCmd.openURLsInSelection "Abrir las direcciones URL contenidas en la selección">
+<!ENTITY gestureCmd.browserConsole "Navegador de consola">
+<!ENTITY gestureCmd.bookmarksSidebar "Mostrar pánel lateral de Marcadores">
+<!ENTITY gestureCmd.historySidebar "Mostrar pánel lateral de Historial">
+<!ENTITY gestureCmd.backForwardHistory "Retroceder/Avanzar en el Historial">
+<!ENTITY gestureCmd.hybridSave "Guardar como…">
+<!ENTITY gestureCmd.hybridBookmark "Marcador…">
+<!ENTITY gestureCmd.hybridViewSource "Ver código fuente">
+<!ENTITY gestureCmd.hybridProperties "Propiedades">
+<!ENTITY gestureCmd.hybridCopyURL "Copiar dirección">
+<!ENTITY gestureCmd.toggleFindbar "Abrir/Cerrar la barra de búsqueda">
+<!ENTITY gestureCmd.restartApp "Re-iniciar Firefox">
+<!ENTITY gestureCmd.options "Opciones">

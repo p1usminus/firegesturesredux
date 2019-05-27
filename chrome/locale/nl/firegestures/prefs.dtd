@@ -1,0 +1,66 @@
+<!ENTITY options "Opties">
+<!ENTITY mainPane "Hoofd">
+<!ENTITY mappingPane "Toewijzing">
+<!ENTITY advancedPane "Geavanceerd">
+<!ENTITY swipePane "Swipe">
+<!ENTITY mouseGesture "Muisgebaren">
+<!ENTITY triggerButton "Knop om een gebaar te starten">
+<!ENTITY triggerButton.left "Links">
+<!ENTITY triggerButton.middle "Midden">
+<!ENTITY triggerButton.right "Rechts">
+<!ENTITY suppress.alt "Gebaar niet starten als ALT ingedrukt gehouden wordt">
+<!ENTITY trail "Trail Drawing">
+<!ENTITY trail.color "Kleur">
+<!ENTITY trail.size "Grootte">
+<!ENTITY status "Status Display">
+<!ENTITY status.description.1 "Hide status display after">
+<!ENTITY status.description.2 "seconds">
+<!ENTITY timeout "Timeout">
+<!ENTITY timeout.description.1 "Stop muisgebaar na">
+<!ENTITY timeout.description.2 "seconden zonder beweging">
+<!ENTITY mappings.title "Toewijzingen">
+<!ENTITY mappings.description "Kies een toewijzing om te bewerken">
+<!ENTITY tools.title "Extra">
+<!ENTITY tools.description "Backuppen en terugzetten van alle toewijzingen">
+<!ENTITY tools.backup.label "Backup">
+<!ENTITY tools.restore.label "Terugzetten">
+<!ENTITY tools.restore.alerttext "Dit zal alle huidige toewijzingen vervangen door die van de backup. Weet je het zeker?">
+<!ENTITY wheelGesture "Wielgebaren">
+<!ENTITY wheelGesture.up.left "Omhoog scrollen met linkerknop ingedrukt">
+<!ENTITY wheelGesture.up.middle "Omhoog scrollen met middenknop ingedrukt">
+<!ENTITY wheelGesture.up.right "Omhoog scrollen met rechterknop ingedrukt">
+<!ENTITY wheelGesture.down.left "Omlaag scrollen met linkerknop ingedrukt">
+<!ENTITY wheelGesture.down.middle "Omlaag scrollen met middenknop ingedrukt">
+<!ENTITY wheelGesture.down.right "Omlaag scrollen met rechterknop ingedrukt">
+<!ENTITY rockerGesture "Rockergebaren">
+<!ENTITY rockerGesture.left "Linksklikken met rechterknop ingedrukt">
+<!ENTITY rockerGesture.right "Rechtsklikken met linkerknop ingedrukt">
+<!ENTITY keypressGesture "Toetsgebaren">
+<!ENTITY keypressGesture.ctrl "Muisgebaar met CTRL-toets ingedrukt">
+<!ENTITY keypressGesture.shift "Muisgebaar met Shift-toets ingedrukt">
+<!ENTITY keypressGesture.open "Open links in tabs">
+<!ENTITY keypressGesture.save "Links opslaan">
+<!ENTITY keypressGesture.copy "Links kopiëren">
+<!ENTITY tabwheelGesture "Tab Wielgebaren">
+<!ENTITY tabwheelGesture.description "Tabs wisselen met scrollwiel op tabbalk">
+<!ENTITY swipe "Swipe Gestures">
+<!ENTITY swipe.left "Swipe leftward">
+<!ENTITY swipe.right "Swipe rightward">
+<!ENTITY swipe.up "Swipe upward">
+<!ENTITY swipe.down "Swipe downward">
+<!ENTITY swipe.continuous "Mouse gesture with continuous swipes">
+<!ENTITY swipe.continuous.1 "Time to wait for next direction">
+<!ENTITY swipe.continuous.2 "seconds">
+<!ENTITY treecol.name "Naam">
+<!ENTITY treecol.command "Opdracht">
+<!ENTITY treecol.script "Script">
+<!ENTITY treecol.gesture "Gebaar">
+<!ENTITY editButton.label "Bewerken">
+<!ENTITY editButton.accesskey "E">
+<!ENTITY clearButton.label "Wissen">
+<!ENTITY clearButton.accesskey "C">
+<!ENTITY addScriptButton.label "Script Toevoegen">
+<!ENTITY addScriptButton.accesskey "A">
+<!ENTITY deleteScriptButton.label "Script Wissen">
+<!ENTITY deleteScriptButton.accesskey "D">
+<!ENTITY getScripts.label "Scripts Verkrijgen">
